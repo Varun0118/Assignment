@@ -1,0 +1,33 @@
+body{
+	font-family: Arial;
+}
+.header{
+  background-color: black;
+  color: white;
+}
+h1,h3{
+	text-align: center;
+}
+.form-container {
+  margin-bottom: 25px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+}
+input{
+	margin: 15px;
+}
+.error {
+  color: red;
+}
+
+#table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#table th,
+#table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
